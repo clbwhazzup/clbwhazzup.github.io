@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: #4b4b73;
+    background-color: #17171d;
     margin: 20px;
 }
 
@@ -19,13 +19,13 @@ table{
     margin-right: auto;
     width: 85%;
     border-collapse: collapse;
-    border: 5px solid rgb(139, 86, 212);
+    border: 5px solid rgb(156, 160, 43);
     border-radius: 10px;
 }
 
 tr{
-    background-color:#544366;
-    border: 2px solid rgb(139, 86, 212);
+    background-color:#2a282d;
+    border: 2px solid rgb(156, 160, 43);
 }
 
 td{
