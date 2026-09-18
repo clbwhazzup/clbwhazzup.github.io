@@ -1,0 +1,11 @@
+.site-footer{
+    border-top: 1px solid var(--border);
+    padding: 26px 20px 40px;
+    text-align: center;
+    color: var(--muted);
+    font-size: 15px;
+}
+
+.site-footer p{
+    margin: 4px 0;
+}

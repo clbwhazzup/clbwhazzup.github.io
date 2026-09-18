@@ -1,0 +1,35 @@
+.site-main{
+    width: 100%;
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 40px 20px 60px;
+}
+
+.section{
+    margin-top: 56px;
+}
+
+.section-title{
+    font-size: 15px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 600;
+    margin-bottom: 18px;
+}
+
+.page-intro{
+    border-bottom: 2px solid var(--accent);
+    padding-bottom: 18px;
+    margin-bottom: 36px;
+}
+
+.page-title{
+    font-size: clamp(30px, 5vw, 42px);
+}
+
+.page-lead{
+    color: var(--muted);
+    margin: 10px 0 0;
+    max-width: 60ch;
+}
