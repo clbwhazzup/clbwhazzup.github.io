@@ -110,16 +110,16 @@ module.exports = [
       `and you drag anywhere on the screen to spin the whole ring at once. The ball comes at you in a ` +
       `color, and only bricks of that same color break, so everything else is a wall you have to work ` +
       `around. Every level is a picture drawn out of colored bricks instead of a random grid, and there ` +
-      `are 99 of them so far. There are also five power ups you earn and spend: RAINBOW, MULTI, HEAVY, ` +
-      `SLOW and STICKY. The game is free, with a banner ad during play and an optional ad you can watch ` +
-      `for extra power ups. Progress is saved on the device. It is in a closed test on Google Play right ` +
-      `now, so the source is not public yet. ` +
+      `are 500 of them, plus a daily challenge to come back to. There are also five power ups you earn ` +
+      `and spend: RAINBOW, MULTI, STICKY, HEAVY and BOMB. The game is free, with banner ads and rewarded ` +
+      `ads. Progress is saved on the device. It is almost ` +
+      `ready for release and is in a closed test on Google Play right now. ` +
       `${LINK('https://groups.google.com/g/paddle-ball-testers', 'Click here')} to join the test.`,
     media: [
-      { type: 'image', src: 'images/paddleball1.webp', alt: 'Paddle Ball gameplay with the paddle ring around a block of colored bricks' },
-      { type: 'image', src: 'images/paddleball2.webp', alt: 'The MULTI and SLOW power ups active during a level' },
-      { type: 'image', src: 'images/paddleball3.webp', alt: 'Two balls moving toward opposite sides of the paddle ring' },
-      { type: 'image', src: 'images/paddleball4.webp', alt: 'The level clear screen showing a new high score' },
+      { type: 'image', src: 'images/paddleball1.webp', alt: 'Level 167 of 500, a rainbow heart drawn in colored bricks inside the paddle ring' },
+      { type: 'image', src: 'images/paddleball2.webp', alt: 'Level 3, an early level with the later power ups still locked' },
+      { type: 'image', src: 'images/paddleball3.webp', alt: 'The daily challenge, with an inner ring of walls around the bricks' },
+      { type: 'image', src: 'images/paddleball4.webp', alt: 'Level 36 with the RAINBOW power up active on the ball' },
     ],
   },
   {
