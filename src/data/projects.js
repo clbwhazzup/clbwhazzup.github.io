@@ -112,9 +112,8 @@ module.exports = [
       `around. Every level is a picture drawn out of colored bricks instead of a random grid, and there ` +
       `are 500 of them, plus a daily challenge to come back to. There are also five power ups you earn ` +
       `and spend: RAINBOW, MULTI, STICKY, HEAVY and BOMB. The game is free, with banner ads and rewarded ` +
-      `ads. Progress is saved on the device. It is almost ` +
-      `ready for release and is in a closed test on Google Play right now. ` +
-      `${LINK('https://groups.google.com/g/paddle-ball-testers', 'Click here')} to join the test.`,
+      `ads. Progress is saved on the device. It is out now on Google Play. ` +
+      `${LINK('https://play.google.com/store/apps/details?id=com.clbwhazzup.paddleball', 'Click here')} to get it.`,
     media: [
       { type: 'image', src: 'images/paddleball1.webp', alt: 'Level 167 of 500, a rainbow heart drawn in colored bricks inside the paddle ring' },
       { type: 'image', src: 'images/paddleball2.webp', alt: 'Level 3, an early level with the later power ups still locked' },
