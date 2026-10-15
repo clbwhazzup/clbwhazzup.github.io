@@ -106,7 +106,7 @@ module.exports = [
     title: 'Paddle Ball',
     tags: ['Godot', 'GDScript', 'Android', 'Mobile'],
     details:
-      `This is a mobile game I have been building in Godot. Four paddles sit in a ring around the arena, ` +
+      `This is a mobile game I made in Godot. Four paddles sit in a ring around the arena, ` +
       `and you drag anywhere on the screen to spin the whole ring at once. The ball comes at you in a ` +
       `color, and only bricks of that same color break, so everything else is a wall you have to work ` +
       `around. Every level is a picture drawn out of colored bricks instead of a random grid, and there ` +
