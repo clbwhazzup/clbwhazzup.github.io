@@ -27,5 +27,6 @@ The pages at the repo root (`index.html`, `web.html`, `program.html`, `game.html
 
     gam495.html              capstone page, still uses stylesheet.css
     paddleball-privacy.html  privacy policy, still uses stylesheet.css
+    paddleball-terms.html    terms of service, same styling as the privacy policy
     GRA310Website/           coursework site
-    stylesheet.css           old stylesheet, kept for the two pages above
+    stylesheet.css           old stylesheet, kept for the pages above

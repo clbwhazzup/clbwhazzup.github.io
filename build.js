@@ -10,7 +10,7 @@
  *
  * Output: index.html, web.html, program.html, game.html, 3d.html, css/site.css
  * Hand-written pages that the build does NOT touch:
- *   gam495.html, paddleball-privacy.html, GRA310Website/, stylesheet.css
+ *   gam495.html, paddleball-privacy.html, paddleball-terms.html, GRA310Website/, stylesheet.css
  */
 
 const fs = require('fs');
